@@ -1,2 +1,2 @@
-*
-!.gitignore
+/train
+/val
